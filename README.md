@@ -30,9 +30,9 @@
 
 ## 📫 راه‌های ارتباطی  
 - 📧 ایمیل: moryshok0807@gmail.com  
-- 💼 لینکدین: [https://www.linkedin.com/in/morterza-shokri-408b87268/](#)  
-- 📱 اینستاگرام: [لینک پیج](#)  
-- 📝 تلگرام: [لینک کانال](#)  
+- 💼 لینکدین: [لینک لینکدین]([#](https://www.linkedin.com/in/morterza-shokri-408b87268/))  
+- 📱 اینستاگرام: [لینک پیج](https://www.instagram.com/mortsh1?utm_source=qr&igsh=MThlNngxamcwa2IyZA==)  
+- 📝 تلگرام: [لینک کانال](https://t.me/Mortscoder1)  
 
 ---
 
