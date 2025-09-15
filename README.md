@@ -1,3 +1,4 @@
+![banner](./github_readme_banner.gif)
 <h1 align="center">Hi 👋, I'm Morteza Shokri</h1>
 <h3 align="center">A passionate FullStack developer | Software Engineer from Iran , I have been working in the field of programming and software engineering for 5 years and am currently learning.</h3>
 
